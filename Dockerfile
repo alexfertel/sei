@@ -1,4 +1,4 @@
-FROM python:alpine
+FROM python:3.6-alpine
 
 RUN pip install spacy && python -m spacy download en_core_web_sm
 
