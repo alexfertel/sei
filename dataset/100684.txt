@@ -1,0 +1,92 @@
+Panthera tigris tigris
+
+{{Ficha de taxón 
+|name = Tigre de Bengala
+|status = EN
+|status_ref =<ref name=iucn>{{IUCN |título= Panthera tigris ssp. tigris|asesores= Chundawat, R.S., Khan, J.A. & Mallon, D.P. |año= 2011|edición= 2015.2|consultado=4 de septiembre de 2015}}</ref><ref>[http://www.iucnredlist.org/details/136899/0 IUCN]</ref>
+|image = Bengaltiger_(Panthera_tigris_tigris).jpg 
+|image_width = 230px
+|regnum = [[Animalia]]
+|phylum = [[Chordata]]
+|subphylum=[[Vertebrata]]
+|classis = [[Mammalia]]
+|subclassis=[[Theria]]
+|ordo = [[Carnivora]]
+|subordo=[[Feliformia]]
+|familia = [[Felidae]]
+|subfamilia=[[Pantherinae]]
+|genus = [[Panthera]]
+|species = [[Panthera tigris|P. tigris]]
+|subspecies = '''P. t. tigris'''
+|binomial=Panthera tigris tigris
+|binomial_authority = [[Carlos Linneo|Linnaeus]], 1758
+|synonyms = * ''P. t. fluviatilis''
+* ''P. t. montanus''
+* ''P. t. regalis''
+* ''P. t. striatus''
+|synonyms_ref = <ref name=Mazak1981/>
+|range_map = Panthera tigris tigris distribution map.png
+|range_map_width = 230px}}
+El '''tigre de Bengala ''' ('''''Panthera tigris tigris'''''), también conocido como '''tigre de Bengala real''' o '''tigre indio''' es una [[subespecie]] de [[Panthera tigris|tigre]] que habita en la [[India]], [[Nepal]], [[Bangladés]], [[Bután]], [[Birmania]] y [[Tíbet]]. Es la subespecie más numerosa y conocida de tigre, y se encuentra en una gran variedad de hábitats, incluyendo [[sabana]]s y [[bosque]]s [[trópico|tropicales]] y [[subtrópico|subtropicales]]. Su [[piel]] es generalmente de color [[naranja (color)|naranja]] o [[León (color)|leonado]]. Existe una [[mutación]] genética que produce que la piel naranja del tigre sea sustituida por el color [[blanco (color)|blanco]]; a estos tigres se les conoce como [[tigre blanco|tigres blancos]]. Una mutación aún más rara (de la que existen menos de cien ejemplares, todos en cautiverio), se conoce como [[tigre dorado]]. El tigre es un [[Anexo:Animales emblemáticos de cada país|animal nacional]] en la [[India]] y [[Bangladés]].
+
+En 2017 un equipo de investigadores pertenecientes a la UICN publicaron una nueva clasificación taxonómica de la familia felidae en la que solo reconocían a dos subespecies de tigres, el tigre de Asia continental (''Panthera tigris tigris'') el cual agrupa al tigre de bengala, siberiano, de indochina, sur de China, malayo así como el tigre extinto del Caspio y los tigres de la sonda (''Panthera tigris sondaica'') que agrupa al tigre de Sumatra así como a los ya desaparecidos [[Panthera tigris sondaica|tigres de Java]] y Bali, esta evaluación se basa en una extensa revisión de publicaciones recientes sobre la morfología del tigre y su filogeografía.<ref>''[http://www.catsg.org/fileadmin/filesharing/5.Cat_News/5.3._Special_Issues/5.3.10._SI_11/CN_Special_Issue_11_Revised_taxonomy_of_the_Felidae.pdf A new taxonomy of the Felidae]''</ref>
+
+== Características ==
+[[Archivo:Panthera tigris tigris.jpg|thumb|200px|left|Tigre de Bengala estirándose.]]
+Anteriormente se le consideraba la segunda subespecie en tamaño, detrás del [[tigre siberiano]] (''[[Panthera tigris altaica|P. tigris altaica]]''), sin embargo estudios recientes sugieren que en la actualidad, esta podría ser la subespecie de mayor tamaño.<ref name="Slaght et al.">{{cita libro |apellidos1=Slaght |nombre1=J. C. |apellidos2=Miquelle |nombre2=D. G. |apellidos3=Nikolaev |nombre3=I. G. |apellidos4=Goodrich |nombre4=J. M. |apellidos5=Smirnov |nombre5=E. N. |apellidos6=Traylor-Holzer |nombre6=K. |apellidos7=Christie |nombre7=S. |apellidos8=Arjanova |nombre8=T.|apellidos9=Smith |nombre9=J. L. D. |apellidos10=Karanth |nombre10=K. U. |capítulo=Chapter 6. Who‘s king of the beasts? Historical and recent body weights of wild and captive Amur tigers, with comparisons to other subspecies |apellidos-editor1=Miquelle |nombre-editor1=D. G. |apellidos-editor2=Smirnov |nombre-editor2=E. N. |apellidos-editor3=Goodrich |nombre-editor3=J. M. |título=Tigers in Sikhote-Alin Zapovednik: Ecology and Conservation |fecha=2005 |editorial=PSP, Vladivostok |idioma=ruso |páginas=25-35 |url=http://fishowls.com/Slaght%20et%20al%202005.pdf}}</ref> La longitud total de los [[macho]]s es de 270-310&nbsp;[[centímetro|cm]] mientras que la de las [[hembra]]s es de 240-265&nbsp;cm; la cola mide unos 85-100&nbsp;cm de largo y la altura a los hombros de 90-110&nbsp;cm.<ref>Karanth, K. U. 2003. [https://web.archive.org/web/20070429135135/http://www.savethetigerfund.org/AM/Template.cfm?Section=Home Tiger ecology and conservation in the Indian subcontinent]. Journal of the Bombay Natural History Society 100 (2&3) agosto-diciembre 2003, p. 169-189.</ref> El peso depende de la región, algunos tigres están por debajo de los 100&nbsp;kg mientras que otros llegan a los 230&nbsp;kg en el caso de los machos<ref>''[http://www.thedailystar.net/news-detail-156957 Sundarbans tigers smallest in world]''</ref><ref>{{cita publicación | autor1=Smith, J. L. D. |autor2=Sunquist, M. E. |autor3=Tamang, K. M. |autor4=Rai, P. B. | fecha=enero de 1983 | título=A technique for capturing and immobilizing tigers | publicación=The Journal of Wildlife Management | volumen=47 | número=1 | páginas= 255–259 | jstor=3808080 | doi=10.2307/3808080}}</ref> En Chitwal 7 tigres machos arrojaron un promedio de 221&nbsp;kg.<ref>La organización social de los tigres en Royal Chitwan National Park, Nepal. Melvin E. Sunquist. Pag 77-83</ref><ref name="Slaght et al."/> Sin embargo, aquellos machos que habitan el Centro de India, tienen un peso de entre 160 a 233&nbsp;kg, y un promedio de 190&nbsp;kg para los machos y de 131&nbsp;kg para las hembras.<ref>Brander, A. 1923. Wild Animals in Central India. E. Arnold & Co. 296 pp. 200 tigers examined in Nepal-Zoological society of london.</ref> Aunque se conoció un gran macho del [[parque nacional Ranthambore]] de nombre Ustad (T24) al que se le adjudican la muerte de cuatro personas entre 2010 y 2015 llegó a los 250&nbsp;kg de peso.<ref>{{cita web |url= http://indianexpress.com/article/india/india-others/big-picture-the-fate-debate-of-ranthambore-tiger-ustad-aka-t24/|título= Big Picture: The debate on Ranthambore’s ‘man-eater’ Ustad aka T24|fechaacceso=1 de agosto de 2017 |apellido= Dutta|nombre= Sweta |fecha= 260 de julio de 2015 |sitioweb= The Indian Espress |idioma= inglés}}</ref> 
+
+El tigre de Bengala más pesado, confirmado en los récords de caza, fue un macho de 258.6&nbsp;kg, cazado al norte de India en 1938,<ref>Hewett, J. 1938. Jungle trails in Northern India. Londres. Página 162.</ref> sin embargo los machos más pesados, registrados por científicos hasta ahora, son dos tigres (M105 y M026) de más de 270&nbsp;kg, capturados en Nepal, en 1980 y 1984, respectivamente.<ref>Dinerstein, E. 2003. Return of the Unicorns. [[Columbia University Press]]. 384 pp. ISBN 0-231-08450-1</ref> El tigre de Bengala más grande, medido entre las curvas, fue un macho cazado por Archibald Dunbar Brander, el cual alcanzó los 221&nbsp;cm de longitud cabeza-cuerpo, con una circunferencia de pecho de 150&nbsp;cm, una altura a los hombros de 109&nbsp;cm y una cola de tan solo 81&nbsp;cm, probablemente cercenada por un macho rival. Si bien este ejemplar no pudo ser pesado, se calculó que su masa corporal no seria menor a los 272&nbsp;kg.<ref>Brander, A. 1923. Wild Animals in Central India. E. Arnold & Co. 296 pp. Zoological society of london.</ref>
+
+Según los Récords Mundiales Guinness, el tigre de Bengala de mayor tamaño conocido fue un gran macho cazado en 1967, midió 322&nbsp;cm de largo total en línea recta (338&nbsp;cm entre las curvas del lomo) y pesó 388.7&nbsp;kg. Aunque esto no se considera un peso científicamente correcto dado que sus medidas no coinciden con su peso y en las fotos el tigre no goza de gran tamaño, así que es muy posible que su peso real sea mucho más bajo, el ejemplar fue cazado al norte de India por David Hasinger, un industrial de Filadelfia. Actualmente{{cuándo}} este ejemplar se encuentra exhibido en el Instituto Smithsoniano, en el salón de los Mamíferos.<ref>Wood. 1983. The Guinness Book of Animal Facts and Feats. Sterling Pub Co Inc. ISBN 978-0-85112-235-9</ref> A principios del siglo XX se reportaron ejemplares machos que alcanzaron los 360&nbsp;cm de longitud total, sin embargo no existe corroboración científica de tales tamaños y los más probable es que fueron medidos sobre las curvas del lomo.<ref>Sterndale, R. 1884. [http://www.gutenberg.org/etext/19550 Natural History of the Mammalia of India and Ceylon]. Thacker, Spink and Co., Calcutta, 540 p. (Ver No. 200. Felis leo).</ref>
+
+== Ciclo de vida y estructura social ==
+Como todos los tigres, son animales solitarios y generalmente no viven en grupos, a excepción de las hembras, que viajan con sus crías en grupos de tres o cuatro. Los machos cuidan un territorio donde viven varias hembras con las que se aparean. Los machos y las hembras solo se reúnen durante la época de reproducción, si bien se han mencionado casos de machos que alimentan a sus crías cuando la madre ha fallecido.<ref>{{cita libro|apellidos1=Thapar|nombre1=Valmik|título=Tiger: The Ultimate Guide|fecha= 2004 |editorial=CDS books|ubicación=Nueva York|isbn=1-59315-024-5|edición=1ª|idioma=inglés}}</ref> La mayoría de las crías nacen entre [[febrero]] y [[mayo]], y tras una gestación de entre 98 y 108 [[día]]s, dan a luz una camada de uno a seis cachorros (normalmente de dos a cuatro) de 1.1&nbsp;kg de peso. La [[esperanza de vida]] para los tigres de Bengala machos es de entre diez y doce [[años]], mientras que para las hembras es un poco más larga; aunque una tigresa del parque nacional de Ranthambore (India) conocida como Machli murió en agosto de 2016 a la avanzada edad de diecinueve años<ref>http://www.lavanguardia.com/natural/actualidad/20160821/404097550888/muere-tigresa-mas-longeva-india-tigre.html</ref><ref>http://www.emol.com/noticias/Tendencias/2016/08/18/817911/India-lamenta-la-muerte-de-Machli-la-famosa-tigresa-paso-sus-ultimos-dias-muy-enferma.html</ref> algunos ejemplares en cautividad pueden llegar a vivir hasta veintiséis años. Aproximadamente el 25&nbsp;% de los tigres machos del [[Parque Nacional de Kanha]] mueren en luchas con otros tigres.{{cr}}
+
+== Reproducción ==
+Los machos y hembras solo se unen en los [[Estro|periodos reproductivos]]. El celo difiere según las condiciones climáticas de la zona en que habitan. La reproducción es vivípara y la [[gestación]] dura alrededor de noventa y tres a cientodoce días.<ref>[http://www.tigers-world.com/es/reproduccion-de-los-tigres/ Tigers-World], La reproducción de los tigres</ref> La madurez sexual del tigre la alcanza recién a los cuatro o cinco años de edad. La madre permanece junto a sus [[cachorros]], que nacen con los ojos cerrados, durante casi dos años, enseñándoles todos los secretos de la caza y la supervivencia. La camada es entre uno y seis [[cachorros]].
+
+En un estudio llevado a cabo en la Reserva de tigres Ranthambore entre 2005 y 2010 sobre los tigres de bengala de los bosques caducifolios secos del norte de la India un grupo de investigadores estudiaron a 13 hembras adultas, estableciendo que dos de ellas se reprodujeron por primera vez a la edad de 33 y 48 meses. El intervalo entre los partos de las tigresas estudiadas fue de 33,4 meses sin mucha diferencia entre los sexos de las crías, aunque la cantidad de cachorros machos fue ligeramente mayor. El intervalo entre los nacimientos de cachorros de los tigres de Ranthambore es significativamente mayor que el plazo que existe entre otras poblaciones de tigres estudiadas como las del Parque nacional de Chitwan en Nepal donde el intervalo entre nacimientos fue de 21,6 meses o la Reserva de tigres Pench en India donde es de 25,2 meses, según los investigadores que participaron en el estudio este plazo mas largo entre alumbramientos podría deberse a las condiciones climáticas adversas presentes en Ranthambore durante el verano y a las bajas precipitaciones anuales (800 mm al año), sin embargo el tamaño de las camadas es similar a la de otras poblaciones de tigre (1 a 3 cachorros). La tasa de mortalidad en los cachorros de hasta 12 mese de edad monitoreados en el estudio fue baja (de 15%) en contraste con los índices de mortalidad en cachorros de ambientes mas tropicales (hasta 34%), mientras que los tigres juveniles de entre 12 y 24 mese de edad tuvieron un índice de mortalidad del 6% en Ranthambore y un 17% en otras regiones.<ref>https://www.researchgate.net/profile/Randeep_Singh10/publication/264346007_Reproductive_characteristics_of_female_Bengal_tigers_in_Ranthambhore_Tiger_Reserve_India/links/5551c9ef08a</ref>
+
+== Dieta == 
+Los tigres de Bengala son [[carnívoro]]s y cazan desde [[Pavo real|pavos reales]] hasta [[Bubalus bubalis|búfalos]] asiáticos y [[Bos gaurus|gaures]] (incluyendo los grandes machos que alcanzan los 1000&nbsp;kg de peso), pasando por toda una gama de presas que incluye [[mono]]s, [[jabalí]]es, [[tapir]]es, [[ciervo]]s y [[antílope]]s. Se han reportado casos más raros en que los tigres han atacado a crías de [[Rhinoceros unicornis|rinoceronte]] y [[Elephas maximus|elefante]], e incluso de individuos que fueron capaces de abatir y devorar a otros grandes carnívoros como [[leopardo]]s y [[Ursidae|oso]]s. Mucho más raros son los ataques contra [[humano]]s, aunque hasta hace un siglo se sucedían con cierta frecuencia. Se calcula que solo en Bangladesh se producen unos cien ataques al año.
+
+== Hábitat ==
+La mayor parte de tigres de Bengala, casi un tercio de la población mundial de estos grandes felinos, habita en la [[India]] y [[Bangladés]]. Los parques nacionales de estos países como [[Parque Nacional de Sundarbans|Sundarbans]] y [[Ranthambore]] albergan la mayor parte de estos. También hay una población importante en [[Nepal]], principalmente en el parque [[Chitawan]].<ref name=Mazak1981>{{cita publicación |autor=Mazák, V. |año=1981 |url= http://www.science.smith.edu/departments/Biology/VHAYSSEN/msi/pdf/i0076-3519-152-01-0001.pdf |título= ''Panthera tigris'' |publicación=Mammalian Species |volumen=152 |número=152 |páginas=1–8 |doi=10.2307/3504004 |jstor=3504004 |access-date=2 de febrero de 2010 |archive-url= https://web.archive.org/web/20110514122546/http://www.science.smith.edu/departments/Biology/VHAYSSEN/msi/pdf/i0076-3519-152-01-0001.pdf |archive-date=14 de mayo de 2011 |dead-url=yes}}</ref>
+
+== Pelaje ==
+Su pelaje superior es de color naranja rojizo con rayas negras o grises, mientras las partes inferiores son blancas. Debido a una mutación genética, algunos tigres en vez de tener pelos naranjas, los tienen en color blanco. Por este motivo se los llaman «tigres blancos». Otros, en cambio, son conocidos como tigres dorados, producto de otra mutación, pero estos solo son vistos en cautiverio.
+
+== Conservación del tigre de bengala ==
+El acelerado crecimiento de población humana en el mundo ha hecho que el tigre de Bengala se vea amenazado en su propio hábitat natural. Estos son extinguidos por cazadores furtivos, argumentando que representan un peligro para el hombre, pero al mismo tiempo aprovechan sus pieles o sus cuerpos enteros para ser disecados. Organizaciones mundiales como el [[Fondo Mundial para la Naturaleza]] trabajan para detener la caza furtiva y reducir los constantes peligros a los que dicho animal se expone. Para 2014 la población del tigre de bengala en la India era de alrededor de 2226 individuos.<ref>''[https://www.worldwildlife.org/stories/india-reports-nearly-30-rise-in-wild-tiger-population India Reports Nearly 30% Rise in Wild Tiger Population]'' en WWF</ref>
+
+== Galería ==
+<gallery mode=packed>
+Koenigstiger-drawing.jpg
+Genova-Tigre su ardesia.jpg
+Panthera tigris5.jpg
+Singapore Zoo Tigers.jpg
+</gallery>
+
+== Referencias ==
+{{listaref|2}}
+== Enlaces externos ==
+{{commonscat}}
+{{wikispecies}}
+* [http://www.catsg.org/index.php?id=124 Gurpo de Especialistas en Felinos: ''Panthera tigris''] y [http://www.catsg.org/index.php?id=564 ''P. t. tigris'']
+* [http://www.wild-team.org WildTeam — Tiger conservation in the Bangladesh Sundarbans]
+* [http://www.animalias.com/bengal-tiger-2108 animalias.com: ''Bengal Tiger'' (Panthera tigris tigris)] clasificaicón taxonómica, imágenes, videos
+* [http://www.panthera.org/species/tiger/subspecies#Bengal Panthera: ''Bengal Tiger'']
+* [http://mammalsrus.com/wordpress/50-tiger-reserves-of-india-on-one-map/ 50 reservas de tigres de India en un solo mapa.]
+* [https://web.archive.org/web/20071013162226/http://nal.usda.gov/awic/pubs/tigers.htm Animal Welfare Information Center: ''Information Resources on Tigers, Panthera tigris: Natural History, Ecology, Conservation, Biology, and Captive Care'']
+* [https://www.theguardian.com/environment/gallery/2009/apr/15/bengal-tigers-faces-photography?lightbox=1 Guardian News and Media Limited: ''The four faces of the Bengal tiger'']
+* [https://web.archive.org/web/20120804060604/http://www.exinkai.com/bengal-tigers-in-india/1803/ Online Travel Guide: ''Bengal Tigers in India'']
+* [http://www.thehindu.com/sci-tech/energy-and-environment/are-there-tigers-in-gujarat/article22413777.ece ¿Hay tigres en Gujarat?]
+* [http://www.thehindu.com/sci-tech/energy-and-environment/does-the-bengal-tiger-have-a-bigger-cousin-at-home/article23867331.ece Grandes tigres] de [[Anini]], [[Dibang Wildlife Sanctuary]], [[Arunachal Pradesh]]
+* [https://bigcatrescue.org/himalayan-bear-killed-by-tiger/ Tigre de Bengala] versus [[:en:Himalayan black bear|oso negro himalayo]] en [[Parque nacional Jigme Dorji]], Bhutan
+
+[[Categoría:Panthera tigris|tigris]]
+[[Categoría:Mamíferos del subcontinente indio]]
+[[Categoría:Símbolos de India]]
+[[Categoría:Símbolos de Bangladés]]
+[[Categoría:Especies descritas por Linnaeus]]
+[[Categoría:Animales descritos en 1758]]

@@ -1,0 +1,119 @@
+Acanthaster planci
+
+{{otros usos|corona de espinas (desambiguación)}}
+{{Ficha de taxón
+| name = Estrella de mar corona de espinas
+| status = NE
+| status_system = iucn3.1
+| image = Crown_of_thorms_starfish.jpg
+| image_width = 230 px
+| regnum = [[Animalia]]
+| phylum = [[Echinodermata]]
+| classis = [[Asteroidea]]
+| ordo = [[Valvatida]]
+| familia = [[Acanthasteridae]]
+| genus = [[Acanthaster]] 
+| binomial = '''Acanthaster planci'''
+| binomial_authority = ([[Carl von Linné|Linnaeus]], [[1758]])<ref name=WoRMS>Mah, C. (2015). ''Acanthaster planci'' (Linnaeus, 1758). In: Mah, C.L. (2015) World Asteroidea database. Accessed through: World Register of Marine Species at http://www.marinespecies.org/aphia.php?p=taxdetails&id=213289 Registro Mundial de Especies Marinas. (en inglés) Consultado el 28 de agosto de 2015.</ref>
+| synonyms =
+* ''Acanthaster echinites'' <small>(Ellis & Solander, 1786)</small> 
+* ''Acanthaster echinus'' <small>Gervais, 1841</small> 
+* ''Acanthaster ellisi'' <small>(Gray, 1840)</small>
+* ''Acanthaster mauritiensis'' <small>de Loriol, 1885</small> 
+* ''Acanthaster pseudoplanci'' <small>Caso, 1962</small>
+* ''Acanthaster solaris'' <small>Schreber, 1793</small>
+* ''Asterias echinites'' <small>Ellis & Solander, 1786</small> 
+* ''Asterias echinus'' <small>Gervais, 1841</small>
+* ''Asterias planci'' <small>Linnaeus, 1758</small>
+* ''Asterias solaris'' <small>Schreber, 1793</small> 
+* ''Echinaster ellisi'' <small>Gray, 1840</small>
+* ''Echinaster solaris'' <small>Schreber, 1793</small> 
+* ''Echinities solaris'' <small>Schreber, 1793</small>
+* ''Stellonia echinites'' <small>L. Agassiz, 1836</small>
+}}
+[[Archivo:Spawning starfish.JPG|miniaturadeimagen|''A. planci'' desovando]]
+[[Archivo:Acanthaster planci estomac.JPG|thumb|''Acanthaster planci''. Detalle del estómago parcialmente evertido]]
+[[Archivo:Crown of Thorns-jonhanson.jpg|thumb|''A. planci'' con coloración inusual]]
+[[Archivo:CrownofThornsStarfish Fiji 2005-10-12.jpg|miniaturadeimagen|''A. planci'' en Fiyi]]
+La '''corona de espinas''' o '''acantáster púrpura''' ('''''Acanthaster planci''''') es una [[especie]] de [[estrella de mar]], de la [[Familia (biología)|familia]] [[Acanthasteridae]], [[Orden (biología)|orden]] [[Valvatida]].
+ 
+Esta estrella de mar se alimenta casi exclusivamente de [[corales duros]], representando en algunas áreas, como la [[Gran Barrera de Arrecifes]] australiana,  una de las amenazas importantes para la supervivencia de los [[Arrecife de coral|arrecifes]], ya que un ejemplar de tamaño medio, devora 478 cm² de [[coral]] vivo por día.<ref name=ADW>http://animaldiversity.org/accounts/Acanthaster_planci/#ecosystem_roles Animal Diversity Web: web divulgativa de la Universidad de Michigan.(en inglés) Consultado el 12 de agosto de 2015.</ref>
+
+== Descripción ==
+Esta estrella de mar varia su coloración del marrón oscuro grisáceo al rojo, naranja o púrpura, con la punta de sus espinas en rojo o amarillo, y los pies ambulacrales en beige. Estas diferencias de coloración se estima que se deben a su dieta.<ref name=WoRMS/><ref name=ADW/> Posee entre 8 y 21 brazos que radian de un disco central. Las puntas de los brazos tienen células foto-receptoras, que sólo distinguen sombras o luz. Los pies ambulacrales son táctiles, y, aparte de su función locomotora, le sirven para percibir el entorno. 
+La boca se sitúa en el centro de su parte inferior, o aboral. El interior del cuerpo contiene el estómago, la glándula digestiva y las gónadas. El esqueleto está compuesto de pequeñas estructuras llamadas osículos, hechas de calcita de magnesio.<ref>Moran, P. (1988) (en inglés) ''Crown-of-Thorns Starfish: Questions and Answers.'' Queensland: Australian Institute of Marine Science.</ref><ref name=Mor>Moran, P. (1988) ''The Acanthaster phenomenon.'' Australian Institute of Marine Science Monograph Series, 7: 379-480.</ref>
+<gallery style="text-align:center;" mode="packed">
+Archivo:Acanthaster Glandes digestives.jpg|''Acanthaster planci''. Glándulas digestivas
+Archivo:Acanthaster planci anus.jpg|Ano de A. planci
+Archivo:Acanthaster planci (Crown of thorns starfish) spines up close.jpg|''Acanthaster planci''. Detalle de la piel y espinas
+Archivo:Acanthaster Planci (La Réunion), détail des épines.jpg|Detalle de espinas en brazos de A. planci
+</gallery>
+Está provista de espinas por todo el cuerpo que le proporcionan una buena defensa contra sus depredadores.<ref name="adm">{{cita libro | apellidos = Varios|editorial = Barcelona:Plaza y Janés| título = Animales del mundo (Tomo I)| edición = | fecha = | año = 1983| isbn = 84-01-60711-6| páginas = |capítulo = | urlcapítulo = | cita = }}</ref> El contacto con sus espinas provoca un dolor vivo, que puede durar unas cuatro horas, náuseas y vómitos. A menudo la región afectada alrededor del punto de contacto experimenta una fuerte inflamación con eritrema, cuyo edema puede durar varios días. 
+
+Puede desplazarse a una velocidad de 20 metros por hora.
+
+Su tamaño medio oscila entre 25 y 35 cm de diámetro, y llega a alcanzar un diámetro de 70 cm. ''Acanthaster plancii'' ocupa el segundo lugar entre las estrellas de mar más grandes del mundo, tan sólo la estrella girasol (''[[Pycnopodia helianthoides]]'') le supera en tamaño,<ref>{{cita web
+|url=http://mediateca.educa.madrid.org/imagen/ver.php?id_imagen=6pmrhtl3tricfwzp&id_grupo=597
+|título=Mediateca EducaMadrid - Imagen - Estrella girasol (Pycnopodia helianthoides) <!--Generado por Muro Bot. Puedes ayudar a rellenar esta plantilla-->
+|fechaacceso=2009
+|autor=
+|enlaceautor=
+|idioma=
+}}</ref> con un diámetro de hasta 90 cm.<ref>{{cita web |url=http://www.wallawalla.edu/academics/departments/biology/rosario/inverts/Echinodermata/Class%20Asteroidea/Pycnopodia_helianthoides.html |título=Copia archivada |fechaacceso=12 de agosto de 2015 |urlarchivo=https://web.archive.org/web/20150907064634/http://www.wallawalla.edu/academics/departments/biology/rosario/inverts/Echinodermata/Class%20Asteroidea/Pycnopodia_helianthoides.html |fechaarchivo=7 de septiembre de 2015 }} Wallawalla.edu: web educativa de la Universidad de Walla Walla (en inglés).</ref>
+
+== Reproducción y desarrollo ==
+Son [[Dioico|dióicas]], o de sexos separados, ovíparas y de fertilización externa. Los machos y las hembras expulsan sus [[gametos]] al agua marina, donde se produce la fertilización. Las hembras gestantes contienen entre 12 y 24 millones de huevos, pudiendo producir hasta 60 millones de huevos en una estación. 
+
+Desovan estacionalmente durante los meses de verano, de mayo a agosto, en el hemisferio norte, y de noviembre a febrero en el hemisferio sur.<ref>Birkelanci, C., J. Lucas. (1990) (en inglés) ''Acanthaster planci: Major Management Problem of Coral Reefs''. Boca Raton, Florida: CRC Press.</ref> Hay evidencias de que ''A. planci'' expulsa sustancias químicas al agua para estimular a los individuos cercanos al desove. La operación se materializa trepando a un saliente alto del arrecife, entonces arquea el cuerpo, y los gametos son expulsados a través de cinco poros situados en la parte aboral del cuerpo, según ondea los brazos y mueve sus pies ambulacrales vigorosamente.
+
+Los huevos fertilizados evolucionan a [[larvas]] [[Planctónico|planctónicas]], dependiendo del [[fitoplancton]] para su nutrición. Estas larvas pasan por tres etapas evolutivas: de [[gastrula]] a bipinnaria, y a brachiolaria. Al final de la etapa brachiolaria, se asienta en un sustrato duro y se metamorfosea a la forma de estrella de mar juvenil. Comienza desarrollando cinco brazos, pero van aumentando según madura, hasta alcanzar incluso 21. 
+<gallery style="text-align:center;" mode="packed">
+Archivo:Gastrula stage of starfish.JPG|Gástrula de ''A. planci''
+File:SEM bipinnaria.JPG|Larva bipinnaria de ''A. planci''
+File:Early starfish brachiolaria.jpg|Larva brachiolaria de ''A. planci''
+File:Late starfish brachiolaria.JPG|Brachiolaria final comenzando la metamorfosis 
+</gallery>
+
+Los investigadores contemplan tres etapas de desarrollo: juvenil, subadulto y adulto. En la primera crecen rápidamente, hasta 16,7 mm por mes, y de subadulto a adulto hasta 4,5 mm por mes.<ref>Engelhardt, U., M. Hartcher, J. Cruise, D. Engelhardt, M. Russell, N. Taylor, G. Thomas, D. Wiseman. (1999) (en inglés) ''Fine scale surveys of crown-of-thorns starfish (Acanthaster planci) in the central Great Barrier Reef Region''. CRC Reef Research Centre Technical Report, 30: 1-97.</ref>
+
+Su expectativa de vida media es de 16 años.
+
+== Alimentación ==
+Su dieta se constituye principalmente de [[corales duros]], como ''[[Acropora]]'', ''[[Pavona (género)|Pavona]]'', ''[[Pocillopora]]'' o ''[[Porites]]''.  Su paso queda marcado por los blancos esqueletos, vacíos de los corales de los que se alimenta. Para devorarlos evagina el estómago, sacándolo del cuerpo por la boca, y digiere los corales con sus secreciones, para absorberlos posteriormente. También se alimenta de algas y detritus.<ref>Pratchett, M. (2007) (en inglés) ''Feeding preferences of Acanthaster planci (Echinodermata: Asteroidea) under controlled conditions of food availability.'' Pacific Science, 61 (1): 113-119.</ref>
+
+== Hábitat y comportamiento ==
+Su hábitat más frecuente son los arrecifes de coral o arrecifes coralinos, especialmente las lagunas , protegidos de fuerte oleaje.
+
+Su rango de profundidad es de 1 a 67 m, aunque la media suele hallarse sobre los 10 m.<ref>http://www.eol.org/pages/598484/details Enciclopedia de la Vida. Consultado el 12 de agosto de 2015.</ref>
+
+Su rango de temperatura es entre 23.01 y 28.95ºC.<ref>http://www.iobis.org/mapper/?taxon_id=395697 IOBIS: Sistema Integrado de Información Biogeográfica Oceánica. Consultado el 12 de agosto de 2015.</ref>
+
+Son animales solitarios, que se alimentan en soledad, y que mantienen cierta distancia entre ellos y con los miembros de otras especies.
+
+=== Predadores ===
+Las fuertes espinas de ''A. planci'' le protegen de muchos posibles predadores, no obstante es predada por el caracol gigante ''[[Charonia tritonis]]'', así como por peces de las familias [[Balistidae]] y [[Tetraodontidae]], que poseen escamas córneas y dientes puntiagudos. Son conocidos predadores los peces ''[[Balistoides viridescens]]'', ''[[Pseudobalistes flavimarginatus]]'' y ''[[Arothron hispidus]]'', así como el gusano de fuego ''[[Pherecardia striata]]'' o la gamba arlequín ''[[Hymenocera picta]]''.<ref name=Mor/>
+
+== Distribución ==
+Esta especie presenta una amplia distribución en toda la región [[Zona intertropical|tropical]] indo-pacífica, desde las costas orientales africanas, el [[mar Rojo]], pasando por el [[océano Índico]], el [[océano Pacífico]] oeste, central, y hasta la costa de Panamá y la [[Isla Gorgona]].<ref name=WoRMS/> 
+
+En la costa francesa mediterránea es especie invasora.<ref>Katsanevakis, S.; Bogucarskis, K.; Gatto, F.; Vandekerkhove, J.; Deriu, I.; Cardoso A.S. (2012) (en inglés) ''Building the European Alien Species Information Network (EASIN): a novel approach for the exploration of distributed alien species data.'' BioInvasions Records. 1: 235-245. Disponible en línea en: http://easin.jrc.ec.europa.eu.</ref>
+
+== Impacto en el ecosistema ==
+[[Archivo:Acanthaster planci GBR.JPG|miniaturadeimagen|Acanthaster planci devorando corales en el arrecife Boulder, Gran Barrera de Arrecifes australiana. Los corales blancos de la imagen son los esqueletos de los corales, una vez que sus pólipos han sido comidos por la estrella de mar depredadora]]
+Desde mediados del [[siglo XX]] se ha observado en las [[islas Ryukyu]] y, posteriormente, en la [[Gran barrera de coral]] australiana y otros lugares, una multiplicación masiva de estas estrellas de mar, hecho que supone una amenaza para las formaciones [[coral]]inas. Debido a que los lugares que ocupaban corales de los que se alimentan son tomados rápidamente por [[alga]]s y otros corales no formadores de arrecifes, la formación de estos se interrumpe de manera casi definitiva. Este hecho puede llegar a tener serias consecuencias para las costas, debido a que los [[arrecife]]s coralinos protegen de los temporales. 
+
+En su fase [[plancton|planctónica]], la estrella está sometida a numerosos riesgos, siendo su principal depredador un tipo de caracol gigante, el [[Tonna galea|caracol tonel]]. Este animal no es muy abundante, a lo que se suma la descontrolada captura por parte de coleccionistas. Probablemente, la escasez de su depredador natural haya provocado la multiplicación masiva de la estrella.
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+{{Commonscat|Acanthaster planci}}
+{{wikispecies}}
+{{Control de autoridades}}
+
+[[Categoría:Acanthaster|planci]]
+[[Categoría:Equinodermos del océano Índico]]
+[[Categoría:Equinodermos del océano Pacífico]]
+[[Categoría:Especies descritas por Linnaeus]]
+[[Categoría:Equinodermos descritos en 1758]]

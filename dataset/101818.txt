@@ -1,0 +1,45 @@
+Macaca silenus
+
+{{otros usos|Sileno|el personaje de la [[mitología griega]]}}
+{{Ficha de taxón 
+| name = Sileno
+| status = EN
+| status_system = iucn3.1
+| status_ref =<ref name = iucn>{{IUCN |autor = Kumar, A., Singh, M. & Molur, S. |año = 2008 |id = 12559 |título = ''Macaca silenus'' |edición IUCN = 2012.1 |consultado = 31 de agosto de 2012 }}</ref>
+| image = Lion-tailed_Macaque.jpg
+| regnum = [[Animalia]]
+| phylum = [[Chordata]]
+| classis = [[Mammalia]]
+| ordo = [[Primates]]
+| subordo = [[Haplorrhini]]
+| infraordo = [[Simiiformes]]
+| familia = [[Cercopithecidae]]
+| subfamilia = [[Cercopithecinae]]
+| genus = [[Macaca]]
+| species = '''M. silenus'''
+| species_authority = [[Carlos Linneo|Linnaeus]], [[1758]]
+| range_map = Lion-tailed Macaque area.png
+| range_map_caption = Distribución del sileno
+}}
+El '''sileno''', '''macaco de cola de león''', '''mono león''' o '''mono barbudo''' ('''''Macaca silenus''''') es una [[especie]] de [[primate]] [[catarrino]] de la [[familia (biología)|familia]] [[Cercopithecidae]].<ref>{{MSW3 |id = 12100561 }}</ref> Es [[endemismo|endémico]] de los [[Ghats occidentales]] (suroeste de [[India]]) y se encuentra en peligro de [[extinción]], con una población total de menos de 4000 ejemplares (probablemente en torno a 2500).
+
+Como otros [[mono]]s del sur y este de [[Asia]], esta especie es preferentemente arborícola, aunque no tiene el menor problema para moverse por el suelo si es necesario. El [[pelo]] recubre todo el cuerpo salvo [[cara]], [[mano]]s y [[pie]]s, que al igual que este son negros; es más largo en la [[espalda]] y sobre todo a los lados de la cara, donde destaca una voluminosa ''[[barba]]'' de pelo claro. Mide hasta 60&nbsp;[[centímetro|cm]] de la cabeza al inicio de la cola, midiendo ésta más de la mitad de la longitud del cuerpo y teniendo un mechón de pelo más largo en el extremo. De complexión delgada y alargada, este mono tiene un peso de apenas 3 a 10&nbsp;[[Kilogramo|kg]], lo que le convierte en uno de los macacos más pequeños que existen.
+
+Su [[hábitat]] exclusivo es el lluvioso bosque tropical que se extiende por las [[montaña]]s de la punta sur de la [[India]] hasta los 1500 [[metro]]s de altitud. Son diurnos, pero se muestran enormemente desconfiados con el [[Homo sapiens|hombre]] y huyen de él ante la mínima aproximación, lo que contrasta fuertemente con el ''exhibicionismo'' de muchos otros [[primate]]s en India. Los silenos (nombre que toman de [[Sileno]], el rey de los [[sátiro]]s del bosque en la [[mitología griega]]) son animales sociales con una rígida estructura jerárquica, que viven en grupos de 10 a 20 individuos. Las hembras siempre superan en número a los machos, aunque son éstos los que dirigen el grupo y se encargan de defender el [[territorio]] (que puede llegar a las 130&nbsp;[[hectárea|ha]]) frente a otros grupos rivales. La mayoría de las veces basta con un coro de gritos para evitar los enfrentamientos, pero cuando éstos no dan resultado su agresividad aumenta considerablemente. Tienen una dieta omnívora formada por la ingesta de [[fruto]]s, [[semilla]]s, [[flor]]es y pequeños animales.
+
+Tras aproximadamente seis meses de [[gestación]], las hembras paren una sola cría que cuidan durante un año. Estas alcanzan la [[madurez sexual]] a la edad de 4 años si son hembras o 6 si son machos. Viven unos 20 años en libertad, aunque en [[Zoocría|cautividad]] pueden superar la treintena.
+
+Los silenos se encuentran entre los primates más raros y amenazados en la actualidad, debido fundamentalmente a la pérdida y fragmentación de su hábitat. La mayoría de las poblaciones actuales se concentra en pequeños [[bosque]]s aislados del resto, lo que complica su permanencia a largo plazo. Por esta razón, muchos [[jardín zoológico|parques zoológicos]] de todo el mundo están llevando a cabo programas de cría en cautividad.
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+{{wikispecies}}
+{{commonscat}}
+
+[[Categoría:Macaca|silenus]]
+[[Categoría:Primates de India]]
+[[Categoría:Fauna endémica de los Ghats occidentales]]
+[[Categoría:Animales descritos en 1758]]
+[[Categoría:Especies descritas por Linnaeus]]

@@ -1,0 +1,57 @@
+Turdus torquatus
+
+{{Ficha de taxón 
+| name = Mirlo capiblanco
+| status = LC
+| status_system = iucn3.1
+| status_ref = <ref>{{IUCN|asesores=[[BirdLife International]]|año=2012|edición=2014.3|consultado=15 de abril de 2015}}</ref>
+| image = Ring Ouzel.jpg
+| image_caption = Macho (abajo) y hembra (arriba)
+| regnum = [[Animalia]]
+| phylum = [[Chordata]]
+| classis = [[Aves]]
+| ordo = [[Passeriformes]]
+| familia = [[Turdidae]]
+| genus = [[Turdus]]
+| species = '''T. torquatus'''
+| species_authority = [[Carlos Linneo|Linnaeus]], [[1758]]
+}}
+
+El '''mirlo capiblanco''' ('''''Turdus torquatus''''') es una [[especie]] de [[Aves|ave]] [[paseriforme]] de la [[familia (biología)|familia]] [[Turdidae]] del [[Género (biología)|género]] ''[[Turdus]]''.
+
+== Descripción ==
+
+Está estrechamente emparentado con el mirlo común (''[[Turdus merula]]'') del que se diferencia fácilmente por la zona de [[plumaje]] blanco que destaca sobre su pecho a modo de ''babero''. El resto del cuerpo es negro en el caso de los machos, mientras que las hembras son pardas y provistas de un ''babero'' por estar salpicado de plumas leonadas. Los bordes de las alas son más pálidos que el resto del cuerpo. Todos los jóvenes de menos de un año presentan la coloración femenina, independientemente de su sexo.
+
+Algunas de las plumas se vuelven grisáceas en [[otoño]], dándole un aspecto escamoso a esta [[especie]]. 
+
+El canto está formado por varias "frases" cortas que se repiten de 2 a 4 veces (''tac-tac-tac'', ''chuc-chuc-chuc-chuc''), generalmente en una rama o el suelo, aunque a veces también se produce en pleno vuelo. En este caso el sonido se produce una sola vez, siendo parecido a un ''chuirrr''. 
+
+== Distribución y hábitat ==
+
+El mirlo capiblanco habita en zonas de montaña, donde sustituye al mirlo común. Su [[hábitat]] característico es el bosque subalpino aclarado, con preferencia por los de [[pino negro]]. Se reproduce en las [[Islas Británicas]], [[Escandinavia]], [[Pirineos]], varias localidades de [[Europa]] central y el [[Cáucaso]]. Al final del verano emigra hacia el sur para pasar el invierno, llegando hasta el norte de [[África]]. En [[España]] inverna en los montes de [[Teruel]], la serranía de Ronda (Málaga) y la [[sierra de Tramontana]] ([[Mallorca]]), preferentemente en zonas cubiertas de [[Sabinas (botánica)|sabinas]], cuyos frutos ingiere en esta época.
+
+== Comportamiento ==
+[[Archivo:Turdus torquatus2.jpg|thumb|Macho.]]
+Los mirlos capiblancos se reúnen en grupos mayores durante el [[invierno]], mientras que el resto del año llevan una vida solitaria o en grupos pequeños.
+
+Se alimenta  de [[insecto]]s, [[Lumbricidae|lombrices]] de tierra, frutos de sabina y otros frutos silvestres.
+
+Retorna a sus áreas de cría entre [[marzo]] y [[abril]]. Durante la época de reproducción deposita numerosos [[huevo (biología)|huevos]] en nidos confeccionados sobre las ramas de un [[arbusto]].
+
+== Referencias ==
+{{listaref}}
+
+== Bibliografía ==
+* ''Guía de las Aves de España: Península, Baleares y Canarias''. Eduardo de Juana y Juan M. Varela.
+
+== Enlaces externos ==
+{{commons}}
+{{wikispecies}}
+* [http://www.faunaiberica.org/?page=mirlo-capiblanco Fauna Ibérica: el mirlo capiblanco] Información sobre especies animales de la Península Ibérica.
+* [https://web.archive.org/web/20110917165254/http://www.ibercajalav.net/img/343_Turdus_torquatus.pdf Identificación de sexos y edades] en el Atlas de Identificación de las Aves de Aragón.
+
+[[Categoría:Turdus|torquatus]]
+[[Categoría:Aves de Europa]]
+[[Categoría:Animales descritos en 1758]]
+[[Categoría:Especies descritas por Linnaeus]]
